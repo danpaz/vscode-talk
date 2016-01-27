@@ -1,3 +1,10 @@
+title: One month with VS Code
+author:
+  name: Daniel Paz-Soldan
+  twitter: danpazsoldan
+output: index.html
+controls: true
+
 --
 
 # One month with VS Code
