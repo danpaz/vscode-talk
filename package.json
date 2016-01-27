@@ -1,0 +1,16 @@
+{
+  "name": "vscode-talk",
+  "version": "1.0.0",
+  "description": "A short talk about my experiences with VS Code",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "cleaver slides.md --output index.html",
+    "watch:build": "cleaver watch slides.md --output index.html"
+  },
+  "author": "Daniel Paz-Soldan <daniel.pazsoldan@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "cleaver": "0.7.7"
+  }
+}
